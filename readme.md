@@ -40,7 +40,7 @@ This project is implemented in **PyTorch** and demonstrates state-of-the-art fac
   </tr>
 </table>
 
-> *AI-generated faces after training on 200,000+ celebrity images from CelebA dataset.*
+*AI-generated faces after training on 200,000+ celebrity images from CelebA dataset.*
 
 ---
 
