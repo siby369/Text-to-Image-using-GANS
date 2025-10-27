@@ -30,13 +30,13 @@ This project is implemented in **PyTorch** and demonstrates state-of-the-art fac
     <td><img src="generated_faces/epoch_0001.png" width="200"/></td>
     <td><img src="generated_faces/epoch_0050.png" width="200"/></td>
     <td><img src="generated_faces/epoch_0100.png" width="200"/></td>
-    <td align="center">Soon</td>
+    <td><img src="generated_faces/epoch_0191.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center">Epoch 1</td>
     <td align="center">Epoch 50</td>
     <td align="center">Epoch 100</td>
-    <td align="center">Epoch 200</td>
+    <td align="center">Epoch 191</td>
   </tr>
 </table>
 
@@ -305,7 +305,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 **What this means:**
 - <img src="https://img.icons8.com/color/20/000000/checkmark.png" width="16" height="16"> Commercial use allowed
 - <img src="https://img.icons8.com/color/20/000000/checkmark.png" width="16" height="16"> Modification allowed
-- <img src="https://img.icons8/color/20/000000/checkmark.png" width="16" height="16"> Distribution allowed
+- <img src="https://img.icons8.com/color/20/000000/checkmark.png" width="16" height="16"> Distribution allowed
 - <img src="https://img.icons8.com/color/20/000000/checkmark.png" width="16" height="16"> Private use allowed
 
 ---
@@ -329,9 +329,9 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## Training Evolution
 
-| ![Epoch 1](generated_faces/epoch_0001.png) | ![Epoch 50](generated_faces/epoch_0050.png) | ![Epoch 100](generated_faces/epoch_0100.png) | ![Epoch 200](generated_faces/epoch_0200.png) |
+| ![Epoch 1](generated_faces/epoch_0001.png) | ![Epoch 50](generated_faces/epoch_0050.png) | ![Epoch 100](generated_faces/epoch_0100.png) | ![Epoch 191](generated_faces/epoch_0191.png) |
 |:---:|:---:|:---:|:---:|
-| **Epoch 1** - Random noise | **Epoch 50** - Face-like shapes | **Epoch 100** - Clear faces | **Epoch 200** - High-quality realistic faces |
+| **Epoch 1** - Random noise | **Epoch 50** - Face-like shapes | **Epoch 100** - Clear faces | **Epoch 191** - Recognizable facial features (not yet high-quality) |
 
 ![Training metrics](generated_faces/training_progress.png)
 *Training metrics - Loss and score progression*
