@@ -25,20 +25,7 @@ This project is implemented in **PyTorch** and demonstrates state-of-the-art fac
 
 ## Sample Results
 
-<table>
-  <tr>
-    <td><img src="generated_faces/epoch_0001.png" width="200"/></td>
-    <td><img src="generated_faces/epoch_0050.png" width="200"/></td>
-    <td><img src="generated_faces/epoch_0100.png" width="200"/></td>
-    <td><img src="generated_faces/epoch_0191.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center">Epoch 1</td>
-    <td align="center">Epoch 50</td>
-    <td align="center">Epoch 100</td>
-    <td align="center">Epoch 191</td>
-  </tr>
-</table>
+<img src="1761643116211.jpg" width="200"/>
 
 *AI-generated faces after training on 200,000+ celebrity images from CelebA dataset.*
 
